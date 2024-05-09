@@ -9,6 +9,7 @@ The goal of the project is to answer a set of questions about the store's busine
 
 ✤ Tool Used:
 MySQL
+
 ✤ Tables Used:
 album
 artist
@@ -21,12 +22,15 @@ media_type
 playlist
 playlist_track
 track
+
 ✤ Queries of the Project:
 Q1: Who is the senior most employee based on job title?
 
 Q2: Which countries have the most Invoices?
 
-Q3: What are top 3 values of total invoice? Q4: Which city has the best customers? We would like to throw a promotional Music Festival in the city we made the most money.
+Q3: What are top 3 values of total invoice? 
+
+Q4: Which city has the best customers? We would like to throw a promotional Music Festival in the city we made the most money.
 
 Q5: Who is the best customer? The customer who has spent the most money will be declared the best customer.
 
