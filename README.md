@@ -1,16 +1,16 @@
 # Music Store Analysis🎵
 
-🎻**Project Description:**
-This project uses SQL to analyze the dataset of an online music store.
+🎻**Project Description:**<br>
+This project uses SQL to analyze the dataset of an online music store.<br>
 
-The objective of the project is to gain valuable insights into the store's operations, Customer Segmentation, trends ,artist effectiveness, artist growth, customer interest and money spent by customer.
+The objective of the project is to gain valuable insights into the store's operations, Customer Segmentation, trends ,artist effectiveness, artist growth, customer interest and money spent by customer.<br>
 
-The goal of the project is to answer a set of questions about the store's business performance and help in its growth by making better decisions.
+The goal of the project is to answer a set of questions about the store's business performance and help in its growth by making better decisions.<br>
 
-🎻**Tool Used:**
-MySQL(Queries, Subqueries, Joins, CTE, Window functions, Aggregate functions)using this I have analyze data.
+🎻**Tool Used:**<br>
+MySQL(Queries, Subqueries, Joins, CTE, Window functions, Aggregate functions)using this I have analyze data.<br>
 
-🎻**Tables Used:**
+🎻**Tables Used:**<br>
 album
 artist
 customer
@@ -23,7 +23,8 @@ playlist
 playlist_track
 track
 
-🎻**Queries of the Project:**
+🎻**Queries of the Project:**<br>
+
 Q1: Who is the senior most employee based on job title?
 
 Q2: Which countries have the most Invoices?
